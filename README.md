@@ -1,2 +1,2 @@
 # LoginAnimated
-Uma tela de login animada 
+A login screen animated
